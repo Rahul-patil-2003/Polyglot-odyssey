@@ -31,6 +31,12 @@ Unleash your linguistic potential with a user-centric design, meticulously craft
 
 Embark on a journey where learning languages becomes not just a task but a thrilling experience. Join our global community and transform into a multilingual master! 🌍🗣️
 
+Figma : https://www.figma.com/file/CQWLyJ9mHwVYapFelWzORF/polyglot-odyssey?type=design&node-id=0%3A1&mode=design&t=G9plNcgAQu6TuCO9-1
+
+Figma Prototype https://www.figma.com/proto/CQWLyJ9mHwVYapFelWzORF/polyglot-odyssey?type=design&node-id=1-2&t=nU7oFNtRn7tGGna9-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
+
+Checkout the scrennshots of the design from below 👇
+
 ![image](https://github.com/Rahul-patil-2003/Polyglot-odyssey/assets/138668076/43a4f91c-244f-43ab-8dd6-9417419fa34e)
 
 ![image](https://github.com/Rahul-patil-2003/Polyglot-odyssey/assets/138668076/f5d2386b-cb70-4a6b-aa0d-fbeaad9a6166)

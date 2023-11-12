@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-stix-two-text: "STIX Two Text";
+  --font-stoke: Stoke;
+  --font-nanumgothic: NanumGothic;
+  --font-suez-one: "Suez One";
+  --font-style-script: "Style Script";
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-lightcyan: #d7fcfe;
+  --color-teal-100: #007272;
+
+  /* Border radiuses */
+  --br-51xl: 70px;
+}

@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-tauri: Tauri;
+    --font-nanumgothic: NanumGothic;
+    --font-suez-one: "Suez One";
+    --font-style-script: "Style Script";
+    --font-stix-two-text: "STIX Two Text";
+    --font-stoke: Stoke;
+  
+    /* font sizes */
+    --font-size-17xl: 36px;
+    --font-size-29xl: 48px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-cadetblue-100: #5d96a2;
+    --color-cadetblue-200: #0796b6;
+    --color-lightcyan: #d7fcfe;
+    --color-teal-100: #007272;
+  
+    /* Gaps */
+    --gap-3xs: 10px;
+  
+    /* Border radiuses */
+    --br-11xl: 30px;
+    --br-46xl: 65px;
+    --br-12xl: 31px;
+    --br-51xl: 70px;
+  }
+  

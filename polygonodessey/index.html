@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Style Script:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Suez One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=NanumGothic:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Stoke:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=STIX Two Text:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="landing-page">
+      <div class="odyssey-parent">
+        <div class="odyssey">Odyssey</div>
+        <div class="polyglot">Polyglot</div>
+      </div>
+      <div class="hi-there">
+        Hi there !! Let's Embark on a Journey to Multilingual Mastery with
+        Engaging Courses and Vibrant Community Interaction.
+      </div>
+      <div class="explore-the-world">Explore the World of Languages</div>
+      <img class="image-1-icon" alt="" src="./assets/aadmi.png" />
+
+      <img class="landing-page-child" alt="" src="./assets/Group 1.png" />
+
+      <img class="landing-page-item" alt="" src="./assets/Group 3.png" />
+
+      <img class="landing-page-inner" alt="" src="./assets/Group 8.png" />
+
+      <img class="group-icon" alt="" src="./assets/image-1@2x.png" />
+
+      <img class="landing-page-child1" alt="" src="./assets/Group 9.png" />
+      
+      <img class="france-fr-icon" alt="" src="./assets/usa.png" />
+
+      <div class="rectangle-parent" id="frameContainer">
+        <div class="frame-child"></div> 
+        <div class="already-have-an">Already Have an Account</div>
+      </div>
+      <img class="" alt="" src="./public/usa.png" />
+
+      <div class="letss-get-started-wrapper" id="frameContainer2">
+        <div class="frame-child2">
+        <div class="letss-get-started">Lets's Get Started</div>
+      </div>
+      </div>
+    </div>
+
+    <script>
+      var frameContainer = document.getElementById("frameContainer2");
+       
+      frameContainer.addEventListener("click",function(){
+         alert("hii");
+      })
+
+      var frameContainer2 = document.getElementById("frameContainer2")
+      if (frameContainer2) {
+        frameContainer.addEventListener("click", function (e) {
+          window.location.href = "languageselect.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -37,7 +37,7 @@ Embark on a journey where learning languages becomes not just a task but a thril
 
 ![image](https://github.com/Rahul-patil-2003/Polyglot-odyssey/assets/138668076/f1dbba7c-175c-4be0-a33e-fb7b908877f1)
 
-![image](https://github.com/Rahul-patil-2003/Polyglot-odyssey/assets/138668076/36fe4521-2e5f-4e68-ad69-7c5d14589fdd)
+![image](https://github.com/Rahul-patil-2003/Polyglot-odyssey/assets/138668076/0dc24820-837c-42f1-9ad4-321f8cc45143)
 
 ![image](https://github.com/Rahul-patil-2003/Polyglot-odyssey/assets/138668076/567c5553-e4a4-49e5-ac9a-123aedb47dab)
 
